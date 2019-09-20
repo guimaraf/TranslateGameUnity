@@ -1,0 +1,15 @@
+{"items":[
+	{
+		"key":"welcome_text",
+		"value":"Welcome in game"
+	},
+	{
+		"key":"start_button",
+		"value":"Start Game"
+	},
+	{
+		"key":"game_description",
+		"value":"This is a tutorial about Json in Unity"
+	}
+	]
+}

@@ -1,0 +1,15 @@
+{"items":[
+	{
+		"key":"welcome_text",
+		"value":"Bem vindo ao nosso jogo"
+	},
+	{
+		"key":"start_button",
+		"value":"Iniciar"
+	},
+	{
+		"key":"game_description",
+		"value":"Este é um teste para leitura de Json"
+	}
+	]
+}
